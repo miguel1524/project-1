@@ -2,11 +2,15 @@ P {
   color: black;
 }
 body {
-    background-image: url("http://www.pokemongo.com/static/assets/images/pokemon_go_logo.png");
+    /*background-image: url("http://www.pokemongo.com/static/assets/images/pokemon_go_logo.png");*/
   }
 body {
     background-color: white;
   }
 body {
     background-image: url("http://rs162.pbsrc.com/albums/t257/lalaa_LAURENNxx/Pokemon/Moving%20Pokemon/pokemon-6.gif~c200");
+  }
+img {
+    opacity: 0.1;
+    filter: alpha(opacity=50);
   }
